@@ -4,10 +4,10 @@ Welcome to the CODE THEFT AUTO: Terraform Challenge! Over the course of 4 days, 
 
 ## 📅 Schedule
 
-- **Day 1: Los Santos Bootcamp** - Introduction to Terraform, setting up your first Terraform project.
-- **Day 2: The Vinewood Job** - Diving deeper into Terraform's state management and backend configurations.
-- **Day 3: Turf Wars** - Building secure networks with VPCs, subnets, and security groups.
-- **Day 4: The Big Score** - Scaling your infrastructure and cleaning up resources.
+- **Week 1 (OCT 8, 2024): Los Santos Bootcamp** - Introduction to Terraform, setting up your first Terraform project.
+- **Week 2 (OCT 15, 2024): The Vinewood Job** - Diving deeper into Terraform's state management and backend configurations.
+- **Week 3 (OCT 22, 2024): Turf Wars** - Building secure networks with VPCs, subnets, and security groups.
+- **Week 4 (OCT 29, 2024): The Big Score** - Scaling your infrastructure and cleaning up resources.
 
 Each day's challenge will be streamed live on Twitch, with interactive polls, Q&A sessions, and community engagement.
 
