@@ -1,4 +1,4 @@
-# Day 1: CODE THEFT AUTO: Terraform Challenge - Introduction to Terraform
+# Week 1: CODE THEFT AUTO: Terraform Challenge - Introduction to Terraform
 
 Welcome to the first day of the CODE THEFT AUTO: Terraform Challenge! Today, we're starting our adventure in the cloud infrastructure world with Terraform, setting the foundation just like beginning your journey in the vast city of Los Santos.
 
@@ -64,4 +64,4 @@ Remember, Los Santos wasn't built in a day, and neither is cloud mastery. Keep e
 
 ---
 
-[Return to README](/README.md) | [Next: Day 2 - The Vinewood Job](/challenges/Day_2_Managing_State_with_Terraform.md)
+[Return to README](/README.md) | [Next: Week 2 - The Vinewood Job](/challenges/Week_2_Managing_State_with_Terraform.md)
