@@ -42,4 +42,4 @@ Remember, this challenge is about learning and having fun. Use the official Terr
 
 ## 📢 Stay Connected
 
-For updates, follow me on [Twitch](https://www.twitch.tv/giftedlane), [Twitter](https://twitter.com/GiftedLane), and check out my posts on [Dev.to](https://dev.to/giftedlane) for more insights into cloud technologies and DevOps.
+For updates, follow me on [Twitch](https://www.twitch.tv/giftedlane), [Twitter](https://twitter.com/GiftedLane), [YouTube](https://www.youtube.com/@giftedlane), and check out my posts on [Dev.to](https://dev.to/giftedlane) for more insights into cloud technologies and DevOps.
